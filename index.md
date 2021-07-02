@@ -1,37 +1,660 @@
-## Welcome to GitHub Pages
+<html lang="en"><head>
 
-You can use the [editor on GitHub](https://github.com/Sycolic/ShonenUniverse/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<meta name="author" content="Bloxburg Epic Thing">
 
-### Markdown
+<meta name="description" content="Bloxburg Epic Thing is the best Bloxburg script.">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<meta name="keywords" content="bloxburg, roblox, script, hack, cheat, autofarm, build">
 
-```markdown
-Syntax highlighted code block
+<title>Bloxburg Epic Thing</title>
 
-# Header 1
-## Header 2
-### Header 3
+<link href="agency/img/logo.ico" rel="icon">
 
-- Bulleted
-- List
+<link href="vendor/css/bundle.min.css" rel="stylesheet">
+<link href="vendor/css/revolution-settings.min.css" rel="stylesheet">
 
-1. Numbered
-2. List
+<link href="vendor/css/jquery.fancybox.min.css" rel="stylesheet">
+<link href="vendor/css/owl.carousel.min.css" rel="stylesheet">
+<link href="vendor/css/swiper.min.css" rel="stylesheet">
+<link href="vendor/css/cubeportfolio.min.css" rel="stylesheet">
 
-**Bold** and _Italic_ and `Code` text
+<link href="agency/css/style.css" rel="stylesheet">
+</head>
+<body data-offset="90" data-spy="scroll" data-target=".navbar">
 
-[Link](url) and ![Image](src)
-```
+<div class="preloader" style="display: none;">
+<div class="box"></div>
+</div>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<div class="cd-transition-layer">
+<div class="bg-layer" style="width: 33375px; height: 750px;"></div>
+</div>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sycolic/ShonenUniverse/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<header class="cursor-light header-appear">
 
-### Support or Contact
+<nav class="navbar navbar-top-default navbar-expand-lg navbar-gradient nav-icon alt-font">
+<div class="container">
+<a class="logo link scroll" href="javascript:void(0)" title="Logo">
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+</a>
+<script src="https://cdn.sellix.io/static/js/embed.js"></script>
+
+<div class="collapse navbar-collapse" id="agency">
+<div class="navbar-nav ml-auto">
+<a class="nav-link link scroll" href="#home">Home</a>
+<a class="nav-link link scroll active" href="#about-us">About Us</a>
+<a class="nav-link link scroll" href="#clients">Clients</a>
+<span class="menu-line"><i aria-hidden="true" class="fa fa-angle-down"></i></span>
+</div>
+<a class="btn btn-medium btn-rounded btn-transparent-white btn-hvr-white ml-3" data-animation-duration="500" href="javascript:void(0);" onclick="window.open('https://discord.gg/8Nnur8uWQM');">Join Discord
+<div class="btn-hvr-setting">
+<ul class="btn-hvr-setting-inner">
+<li class="btn-hvr-effect"></li>
+<li class="btn-hvr-effect"></li>
+<li class="btn-hvr-effect"></li>
+<li class="btn-hvr-effect"></li>
+</ul>
+</div>
+</a>
+<a class="btn btn-medium btn-rounded btn-transparent-white btn-hvr-white ml-3" data-animation-duration="500" href="javascript:void(0);" data-sellix-product="5f62c4f3bf8dd">Purchase
+<div class="btn-hvr-setting">
+<ul class="btn-hvr-setting-inner">
+<li class="btn-hvr-effect"></li>
+<li class="btn-hvr-effect"></li>
+<li class="btn-hvr-effect"></li>
+<li class="btn-hvr-effect"></li>
+</ul>
+</div>
+</a>
+</div>
+
+<button class="fullnav-toggler link" id="full-menu-1" type="button">
+<span class="line"></span>
+<span class="line"></span>
+<span class="line"></span>
+</button>
+
+</div>
+</nav>
+
+<div class="nav-holder main style-2 alt-font">
+
+<button class="fullnav-close link" type="button">
+<span class="line"></span>
+<span class="line"></span>
+<span class="line"></span>
+</button>
+<div class="container">
+<div class="shape-left">
+<nav class="navbar full-menu-navigation left">
+<ul class="list-unstyled">
+<li><a class="link scroll" href="#home">
+<span class="anchor-circle"></span>
+<span class="anchor-text">Home</span>
+</a></li>
+<li><a class="link scroll" href="#about-us">
+<span class="anchor-circle"></span>
+<span class="anchor-text">About</span>
+</a></li>
+<li><a class="link scroll" href="#clients">
+<span class="anchor-circle"></span>
+<span class="anchor-text">Clients</span>
+</a></li>
+<li><a class="link scroll" href="#contact">
+<span class="anchor-circle"></span>
+<span class="anchor-text">Contact</span>
+</a></li>
+</ul>
+<span class="full-menu-dot" style="transform: scale(0);"></span>
+</nav>
+<img alt="shape" src="agency/img/shape-8.png">
+</div>
+<div class="shape-right">
+<div class="full-menu-detail hide-cursor">
+<h6 class="title">Contact</h6>
+<p><i class="fas fa-user-alt"></i>Introvert#1337</p>
+<p><i class="fas fa-user-alt"></i>hello ))))#1362</p>
+<p><i class="fas fa-user-alt"></i>sor#3243</p>
+</div>
+<img alt="shape" src="agency/img/shape-7.png">
+</div>
+</div>
+</div>
+</header>
+
+
+<section class="p-0 no-transition cursor-light" id="home">
+<h2 class="d-none">hidden</h2>
+<div class="forcefullwidth_wrapper_tp_banner" id="rev_slider_17_1_forcefullwidth" style="position:relative;width:100%;height:auto;margin-top:0px;margin-bottom:0px"><div class="rev_slider_wrapper fullscreen-container" data-alias="megaone-agency-1" data-source="gallery" id="rev_slider_17_1_wrapper" style="background: transparent; padding: 0px; margin-top: 0px; margin-bottom: 0px; position: absolute; max-height: none; overflow: visible; height: 625px; width: 794px; left: 0px;">
+
+<div class="rev_slider fullscreenbanner revslider-initialised tp-simpleresponsive rev_redraw_on_blurfocus" data-version="5.4.8.1" id="rev_slider_17_1" style="max-height: none; margin-top: 0px; margin-bottom: 0px; height: 100%;" data-slideactive="rs-43">
+<ul class="tp-revslider-mainul" style="visibility: visible; display: block; overflow: hidden; width: 100%; height: 100%; max-height: none;"> 
+<li data-description="" data-easein="default" data-easeout="default" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-43" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-title="Slide" data-transition="fade" class="tp-revslider-slidesli active-revslide" style="width: 100%; height: 100%; overflow: hidden; z-index: 20; visibility: inherit; opacity: 1;">
+
+<div class="gradient-bg1 bg-overlay"></div>
+
+<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: -20px; top: 472px; z-index: 7;"><div class="tp-loop-wrap rs-slideloop" style="position: absolute; display: block; min-height: 70px; min-width: 35px; transform: translate3d(0px, -9.40375px, 0px);"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption   tp-resizeme" data-frames="[{&quot;delay&quot;:220,&quot;speed&quot;:500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;rZ:339;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-height="none" data-hoffset="['-26','-26','83','83']" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-textalign="['inherit','inherit','inherit','inherit']" data-type="image" data-voffset="['98','98','60','60']" data-whitespace="nowrap" data-width="none" data-x="['left','left','left','left']" data-y="['bottom','bottom','bottom','bottom']" id="slide-43-layer-5" style="z-index: 7; visibility: inherit; transition: none 0s ease 0s; text-align: inherit; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 13px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(0.93358, -0.358368, 0, 0, 0.358368, 0.93358, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
+<img alt="" data-hh="['87px','87px','87px','87px']" data-no-retina="" data-ww="['44px','44px','44px','44px']" src="agency/img/shape-6.png" style="width: 35.2889px; height: 69.7758px; transition: none 0s ease 0s; text-align: inherit; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 10px;">
+
+</div></div></div></div>
+
+<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 948px; top: 396px; z-index: 8;"><div class="tp-loop-wrap rs-slideloop" style="position: absolute; display: block; min-height: 70px; min-width: 19px; transform: translate3d(0px, 1.75104px, 0px);"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption   tp-resizeme" data-basealign="slide" data-frames="[{&quot;delay&quot;:210,&quot;speed&quot;:500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;rZ:358;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-height="none" data-hoffset="['700','700','700','530']" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-textalign="['inherit','inherit','inherit','inherit']" data-type="image" data-voffset="['148','148','148','148']" data-whitespace="nowrap" data-width="none" data-x="['center','center','center','center']" data-y="['middle','middle','middle','middle']" id="slide-43-layer-6" style="z-index: 8; visibility: inherit; transition: none 0s ease 0s; text-align: inherit; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 13px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(0.999391, -0.0348995, 0, 0, 0.0348995, 0.999391, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
+<img alt="" data-hh="['87px','87px','87px','87px']" data-no-retina="" data-ww="['24px','24px','24px','24px']" src="agency/img/shape-5.png" style="width: 19.2485px; height: 69.7758px; transition: none 0s ease 0s; text-align: inherit; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 10px;">
+</div></div></div></div>
+
+<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 590px; top: 502px; z-index: 9;"><div class="tp-loop-wrap rs-wave" style="position: absolute; display: block; min-height: 54px; min-width: 55px; transform: matrix(1, 0, 0, 1, 11.8714, -1.92763);"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption   tp-resizeme" data-fontsize="['20','20','20','20']" data-frames="[{&quot;delay&quot;:220,&quot;speed&quot;:500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-height="none" data-hoffset="['275','275','171','120']" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-textalign="['inherit','inherit','inherit','inherit']" data-type="image" data-voffset="['270','270','261','190']" data-whitespace="nowrap" data-width="none" data-x="['center','center','center','center']" data-y="['middle','middle','middle','middle']" id="slide-43-layer-7" style="z-index: 9; visibility: inherit; transition: none 0s ease 0s; text-align: inherit; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 16px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
+<img alt="" data-hh="['67px','67px','67px','67px']" data-no-retina="" data-ww="['68px','68px','68px','68px']" src="agency/img/shape-4.png" style="width: 54.5374px; height: 53.7354px; transition: none 0s ease 0s; text-align: inherit; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 16px;">
+</div></div></div></div>
+
+<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 701px; top: 120px; z-index: 10;"><div class="tp-loop-wrap rs-rotate" style="position: absolute; display: block; min-height: 55px; min-width: 54px; transform: matrix3d(0.421062, 0.907032, 0, 0, -0.907032, 0.421062, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption   tp-resizeme" data-frames="[{&quot;delay&quot;:190,&quot;speed&quot;:500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-height="none" data-hoffset="['413','413','268','204']" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-textalign="['inherit','inherit','inherit','inherit']" data-type="image" data-voffset="['-205','-205','-259','-145']" data-whitespace="nowrap" data-width="none" data-x="['center','center','center','center']" data-y="['middle','middle','middle','middle']" id="slide-43-layer-8" style="z-index: 10; visibility: inherit; transition: none 0s ease 0s; text-align: inherit; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 13px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
+<img alt="" data-hh="['69px','69px','69px','69px']" data-no-retina="" data-ww="['67px','67px','67px','67px']" src="agency/img/shape-3.png" style="width: 53.7354px; height: 55.3394px; transition: none 0s ease 0s; text-align: inherit; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 10px;">
+</div></div></div></div>
+
+<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 349px; top: 168px; z-index: 11;"><div class="tp-loop-wrap rs-pendulum" style="position: absolute; display: block; min-height: 42px; min-width: 41px; transform: matrix3d(0.969727, -0.244191, 0, 0, 0.244191, 0.969727, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption   tp-resizeme" data-frames="[{&quot;delay&quot;:190,&quot;speed&quot;:500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-height="none" data-hoffset="['436','436','259','145']" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-textalign="['inherit','inherit','inherit','inherit']" data-type="image" data-voffset="['204','204','96','73']" data-whitespace="nowrap" data-width="none" data-x="['left','left','left','left']" data-y="['top','top','top','top']" id="slide-43-layer-9" style="z-index: 11; visibility: inherit; transition: none 0s ease 0s; text-align: inherit; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 13px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
+<img alt="" data-hh="['52px','52px','52px','52px']" data-no-retina="" data-ww="['51px','51px','51px','51px']" src="agency/img/shape-1.png" style="width: 40.903px; height: 41.7051px; transition: none 0s ease 0s; text-align: inherit; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 10px;">
+</div></div></div></div>
+
+<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 722px; top: 87px; z-index: 12;"><div class="tp-loop-wrap rs-slideloop" style="position: absolute; display: block; min-height: 11px; min-width: 40px; transform: translate3d(3.47084px, 0px, 0px);"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption   tp-resizeme" data-basealign="slide" data-frames="[{&quot;delay&quot;:170,&quot;speed&quot;:500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-height="none" data-hoffset="['39','39','94','58']" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-textalign="['inherit','inherit','inherit','inherit']" data-type="image" data-voffset="['109','109','64','69']" data-whitespace="nowrap" data-width="none" data-x="['right','right','right','right']" data-y="['top','top','top','top']" id="slide-43-layer-10" style="z-index: 12; visibility: inherit; transition: none 0s ease 0s; text-align: inherit; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 13px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
+<img alt="" data-hh="['14px','14px','14px','14px']" data-no-retina="" data-ww="['50px','50px','50px','50px']" src="agency/img/shape-2.png" style="width: 40.101px; height: 11.2283px; transition: none 0s ease 0s; text-align: inherit; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 10px;">
+</div></div></div></div>
+
+<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 337px; top: 182px; z-index: 13;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: hidden; transform: matrix(1, 0, 0, 1, 0, 0);"><div class="tp-caption tp-resizeme gradient-text1" data-fontsize="['70','65','60','50']" data-frames="[{&quot;delay&quot;:660,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-height="none" data-hoffset="['320','250','0','0']" data-lineheight="['80','75','70','60']" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-textalign="['left','left','center','center']" data-type="text" data-voffset="['-125','-125','-125','-110']" data-whitespace="nowrap" data-width="['650','650','600','500']" data-x="['center','center','center','center']" data-y="['middle','middle','middle','middle']" id="slide-43-layer-13" style="z-index: 13; min-width: 521px; max-width: 521px; white-space: nowrap; font-size: 52px; line-height: 60px; font-weight: 800; color: rgb(255, 255, 255); letter-spacing: 0px; font-family: Montserrat; visibility: inherit; transition: none 0s ease 0s; text-align: left; border-width: 0px; margin: 0px; padding: 0px; min-height: 0px; max-height: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
+Bloxburg
+</div></div></div></div>
+
+<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 337px; top: 250px; z-index: 14;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption tp-resizeme splitted" data-fontsize="['70','65','60','50']" data-frames="[{&quot;delay&quot;:1840,&quot;split&quot;:&quot;chars&quot;,&quot;splitdelay&quot;:0.1,&quot;speed&quot;:1000,&quot;split_direction&quot;:&quot;forward&quot;,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;sX:0.8;sY:0.8;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-height="none" data-hoffset="['320','250','0','0']" data-lineheight="['70','75','70','60']" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-textalign="['left','left','center','center']" data-type="text" data-voffset="['-40','-40','-40','-40']" data-whitespace="nowrap" data-width="['650','650','600','500']" data-x="['center','center','center','center']" data-y="['middle','middle','middle','middle']" id="slide-43-layer-11" style="z-index: 14; min-width: 521px; max-width: 521px; white-space: nowrap; font-size: 52px; line-height: 60px; font-weight: 700; color: rgb(255, 255, 255); letter-spacing: 0px; font-family: Montserrat; visibility: inherit; transition: none 0s ease 0s; text-align: left; border-width: 0px; margin: 0px; padding: 0px; min-height: 0px; max-height: none; opacity: 1; transform-origin: 50% 50% 0px; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);"><div class="tp-splitted tp-linesplit" style="display: block; text-align: left; position: relative;"><div style="position:relative;display:inline-block;" class="tp-splitted tp-wordsplit"><div style="position: relative; display: inline-block; visibility: inherit; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;" class="tp-splitted tp-charsplit">E</div><div style="position: relative; display: inline-block; visibility: inherit; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;" class="tp-splitted tp-charsplit">p</div><div style="position: relative; display: inline-block; visibility: inherit; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;" class="tp-splitted tp-charsplit">i</div><div style="position: relative; display: inline-block; visibility: inherit; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;" class="tp-splitted tp-charsplit">c</div></div> <div style="position:relative;display:inline-block;" class="tp-splitted tp-wordsplit"><div style="position: relative; display: inline-block; visibility: inherit; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;" class="tp-splitted tp-charsplit">T</div><div style="position: relative; display: inline-block; visibility: inherit; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;" class="tp-splitted tp-charsplit">h</div><div style="position: relative; display: inline-block; visibility: inherit; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;" class="tp-splitted tp-charsplit">i</div><div style="position: relative; display: inline-block; visibility: inherit; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;" class="tp-splitted tp-charsplit">n</div><div style="position: relative; display: inline-block; visibility: inherit; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;" class="tp-splitted tp-charsplit">g</div></div></div></div></div></div></div>
+
+<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 344px; top: 337px; z-index: 15;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption   tp-resizeme" data-fontsize="['20','20','18','17']" data-frames="[{&quot;delay&quot;:2360,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-height="none" data-hoffset="['325','210','0','0']" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-textalign="['left','left','center','center']" data-type="text" data-voffset="['80','75','65','57']" data-whitespace="normal" data-width="['651','550','600','500']" data-x="['center','center','center','center']" data-y="['middle','middle','middle','middle']" id="slide-43-layer-14" style="z-index: 15; min-width: 441px; max-width: 441px; white-space: normal; font-size: 16px; line-height: 24px; font-weight: 300; color: rgb(255, 255, 255); letter-spacing: 0px; font-family: Roboto; visibility: inherit; transition: none 0s ease 0s; text-align: left; border-width: 0px; margin: 0px; padding: 0px; min-height: 0px; max-height: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
+Bloxburg Epic Thing is the best, most feature rich Bloxburg script on the market. With its wide variety of features, sleek UI, and more, its a must buy for any Bloxburg players.
+</div></div></div></div>
+
+<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 345px; top: 439px; z-index: 16;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption   tp-resizeme" data-frames="[{&quot;delay&quot;:2970,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-height="none" data-hoffset="['325','260','0','0']" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-textalign="['left','left','center','center']" data-type="text" data-voffset="['200','186','176','156']" data-whitespace="nowrap" data-width="['650','650','600','500']" data-x="['center','center','center','center']" data-y="['middle','middle','middle','middle']" id="slide-43-layer-15" style="z-index: 16; white-space: nowrap; visibility: inherit; transition: none 0s ease 0s; text-align: left; line-height: 24px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 13px; min-height: 0px; min-width: 521px; max-height: none; max-width: 521px; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
+<a class="btn btn-slider btn-rounded btn-blue btn-hvr-white" href="javascript:void(0);" data-sellix-product="5f62c4f3bf8dd" style="transition: none 0s ease 0s; text-align: inherit; line-height: 20px; border-width: 2px; margin: 0px; padding: 7px 27px; letter-spacing: 0px; font-weight: 500; font-size: 11px;">Purchase
+<div class="btn-hvr-setting" style="transition: none 0s ease 0s; text-align: inherit; line-height: 20px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 500; font-size: 11px;">
+<ul class="btn-hvr-setting-inner" style="transition: none 0s ease 0s; text-align: inherit; line-height: 16px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 500; font-size: 9px;">
+<li class="btn-hvr-effect" style="transition: none 0s ease 0s; text-align: inherit; line-height: 13px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 500; font-size: 7px;"></li>
+<li class="btn-hvr-effect" style="transition: none 0s ease 0s; text-align: inherit; line-height: 13px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 500; font-size: 7px;"></li>
+<li class="btn-hvr-effect" style="transition: none 0s ease 0s; text-align: inherit; line-height: 13px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 500; font-size: 7px;"></li>
+<li class="btn-hvr-effect" style="transition: none 0s ease 0s; text-align: inherit; line-height: 13px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 500; font-size: 7px;"></li>
+</ul>
+</div>
+</a>
+</div></div></div></div>
+
+<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 0px; top: 107px; z-index: 17;"><div class="tp-loop-wrap rs-slideloop" style="position: absolute; display: block; min-height: 409px; min-width: 281px; transform: translate3d(-2.35396px, 0px, 0px);"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption   tp-resizeme" data-frames="[{&quot;delay&quot;:990,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:-50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-height="none" data-hoffset="['0','0','-412','-412']" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-textalign="['inherit','inherit','inherit','inherit']" data-type="image" data-visibility="['on','on','off','off']" data-voffset="['-1','-1','72','72']" data-whitespace="nowrap" data-width="none" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" id="slide-43-layer-16" style="z-index: 17; visibility: inherit; transition: none 0s ease 0s; text-align: inherit; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 13px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
+<img alt="" data-hh="['500px','510','510','510']" data-no-retina="" data-ww="['500px','350','350','350']" src="agency/img/logo.jpg" style="width: 280.707px; height: 409.03px; transition: none 0s ease 0s; text-align: inherit; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 300; font-size: 10px;">
+</div></div></div></div>
+
+<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 339px; top: 576px; z-index: 18;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption tp-resizeme hide-cursor tp-withaction" data-actions="[{&quot;event&quot;:&quot;click&quot;,&quot;action&quot;:&quot;scrollbelow&quot;,&quot;offset&quot;:&quot;-50px&quot;,&quot;delay&quot;:&quot;&quot;,&quot;speed&quot;:&quot;1200&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-fontsize="['20','20','20','17']" data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:300,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-height="none" data-hoffset="['0','0','0','0']" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-textalign="['inherit','inherit','inherit','inherit']" data-type="text" data-voffset="['25','25','5','5']" data-whitespace="nowrap" data-width="none" data-x="['center','center','center','center']" data-y="['bottom','bottom','bottom','bottom']" id="slide-43-layer-17" style="z-index: 18; white-space: nowrap; cursor: pointer; font-size: 16px; line-height: 24px; font-weight: 400; color: rgb(255, 255, 255); letter-spacing: 0px; font-family: Montserrat; visibility: inherit; transition: none 0s ease 0s; text-align: inherit; border-width: 0px; margin: 0px; padding: 0px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
+Scroll Down <i class="ml-2 fas fa-long-arrow-alt-down" style="transition: none 0s ease 0s; text-align: inherit; line-height: 13px; border-width: 0px; margin: 0px 0px 0px 6px; padding: 0px; letter-spacing: 0px; font-weight: 900; font-size: 13px;"></i></div></div></div></div>
+</li>
+</ul>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important; width: 0%;"></div>
+<div class="tp-loader off" style="display: none;"><div class="dot1"></div><div class="dot2"></div><div class="bounce1"></div><div class="bounce2"></div><div class="bounce3"></div></div></div>
+</div><div class="tp-fullwidth-forcer" style="width: 100%; height: 625px;"></div></div>
+</section>
+
+
+<section class="pb-0" id="about-us">
+<div class="container">
+<div class="row">
+<div class="col-lg-6 wow fadeInLeft">
+<div class="heading-area">
+<span class="sub-title">This is Bloxburg Epic Thing</span>
+<h2 class="title">We are making <span class="alt-color js-rotating morphext"><span class="animated flipInX">Playing</span></span> better and easier for
+everyone</h2>
+<p class="para">Never before has there been a way to auto build houses, autofarm all jobs, kick players, and more before Bloxburg Epic Thing. Bloxburg Epic Thing has more features than all of its competitors. It is constantly updated, too.</p>
+<a class="btn btn-large btn-rounded btn-pink btn-hvr-blue mt-3" href="javascript:void(0);" data-sellix-product="5f62c4f3bf8dd">Purchase
+<div class="btn-hvr-setting">
+<ul class="btn-hvr-setting-inner">
+<li class="btn-hvr-effect"></li>
+<li class="btn-hvr-effect"></li>
+<li class="btn-hvr-effect"></li>
+<li class="btn-hvr-effect"></li>
+</ul>
+</div>
+</a>
+</div>
+</div>
+<div class="col-lg-6 wow fadeInRight">
+<div class="half-img mt-5 pt-4 mt-lg-0 pt-lg-0">
+<iframe width="660" height="371" src="https://www.youtube.com/embed/LXwZUqwjluA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<section id="services">
+<div class="container">
+<div class="row">
+<div class="col-md-3">
+<div class="process-wrapp">
+<span class="pro-step blue"><i aria-hidden="true" class="fas fa-folder-open"></i></span>
+<h4 class="service-heading">Easy to setup and secure whitelist</h4>
+</div>
+</div>
+<div class="col-md-3">
+<div class="process-wrapp">
+<span class="pro-step midnight"><i aria-hidden="true" class="fas fa-code"></i></span>
+<h4 class="service-heading">A focused and skilled developer team</h4>
+</div>
+</div>
+<div class="col-md-3">
+<div class="process-wrapp">
+<span class="pro-step purple"><i aria-hidden="true" class="fas fa-cog"></i></span>
+<h4 class="service-heading">Customizable and easy to use</h4>
+</div>
+</div>
+<div class="col-md-3">
+<div class="process-wrapp">
+<span class="pro-step pink"><i aria-hidden="true" class="fas fa-edit"></i></span>
+<h4 class="service-heading">Always taking feedback and suggestions</h4>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="gradient-bg2" id="counters">
+<div class="container">
+<div class="row">
+<div class="col-lg-6 pl-lg-4 order-lg-2 wow fadeInRight">
+<div class="heading-area">
+<span class="sub-title text-white">This is Bloxburg Epic Thing</span>
+<h2 class="title text-white">Bloxburg Epic Thing is <span class="js-rotating morphext"><span class="animated flipInX">powerful</span></span>.
+</h2>
+<p class="para text-white">Not only can you copy small houses, but Bloxburg Epic Thing is powerful enough to handle the largest of mansions, along with it having settings to keep you from wasting your Blockbux, buying vehicles, and more.</p>
+</div>
+<ul class="counter-list list-unstyled">
+<li class="counter-item">
+<i aria-hidden="true" class="fas fa-users text-white"></i>
+<h6 class="counter-number text-white"><span class="count">1000</span>+</h6>
+<p class="sub-title text-white">Happy Clients</p>
+</li>
+<li class="counter-item">
+<i aria-hidden="true" class="fas fa-list-alt text-white"></i>
+<h6 class="counter-number text-white"><span class="count">50</span>+</h6>
+<p class="sub-title text-white">Features</p>
+</li>
+<li class="counter-item">
+<i aria-hidden="true" class="fas fa-award text-white"></i>
+<h6 class="counter-number text-white"><span class="count">100000</span>+</h6>
+<p class="sub-title text-white">Script Executions</p>
+</li>
+</ul>
+</div>
+<div class="col-lg-6 wow fadeInLeft">
+<iframe width="660" height="371" src="https://www.youtube.com/embed/Z_uVBoFcqeo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="text-center" id="team">
+<div class="container">
+
+<div class="row">
+<div class="col-md-12">
+<div class="heading-area mx-570 mb-5">
+<span class="sub-title">This is Bloxburg Epic Thing</span>
+<h2 class="title">Bloxburg Epic Thing has <span class="alt-color js-rotating morphext"><span class="animated flipInX">active</span></span> developers</h2>
+<p class="para">The developers of Bloxburg Epic Thing are one of the few who are constantly updating, and always taking feedback and suggestions.</p>
+</div>
+</div>
+</div>
+
+<div class="row wow fadeInUp">
+<div class="col-md-4">
+<div class="team-item">
+
+<img alt="image" class="team-image" src="agency/img/sorr.png">
+
+<div class="name">
+<img alt="shape" src="agency/img/shape-9.png">
+<h6>sor#3243</h6>
+</div>
+
+<p class="designation mb-2">Main Whitelist Developer</p>
+
+</div>
+</div>
+<div class="col-md-4">
+<div class="team-item">
+
+<img alt="image" class="team-image" src="agency/img/intro.png">
+
+<div class="name">
+<img alt="shape" src="agency/img/shape-10.png">
+<h6>Introvert#1337</h6>
+</div>
+
+<p class="designation mb-2">Main Developer/Side Whitelist Developer</p>
+
+</div>
+</div>
+<div class="col-md-4">
+<div class="team-item">
+
+<img alt="image" class="team-image" src="agency/img/sob.png">
+
+
+<div class="name">
+<img alt="shape" src="agency/img/shape-11.png">
+<h6>hello ))))#1362</h6>
+</div>
+
+<p class="designation mb-2">Main Developer</p>
+
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="bg-light">
+<div class="container">
+<div class="row">
+<div class="col-lg-6 wow fadeInLeft">
+<div class="heading-area">
+<span class="sub-title">This is Bloxburg Epic Thing</span>
+<h2 class="title"><span class="main-color js-rotating morphext"><span class="animated flipInX">The Best</span></span> Bloxburg Script</h2>
+<p class="para">Bloxburg Epic Thing is the most feature rich Bloxburg script on the market, hands down. With the exceptional amount of features, sleek UI, constant updates, and more, Bloxburg Epic Thing is the go to script for Bloxburg.</p>
+<a class="btn btn-large btn-rounded btn-blue btn-hvr-pink mt-3" href="javascript:void(0);" data-sellix-product="5f62c4f3bf8dd">Purchase
+<div class="btn-hvr-setting">
+<ul class="btn-hvr-setting-inner">
+<li class="btn-hvr-effect"></li>
+<li class="btn-hvr-effect"></li>
+<li class="btn-hvr-effect"></li>
+<li class="btn-hvr-effect"></li>
+</ul>
+</div>
+</a>
+</div>
+</div>
+<div class="col-lg-6 wow fadeInRight">
+<div class="half-img mt-5 pt-4 mt-lg-0 pt-lg-0">
+<img alt="image" src="agency/img/ui.gif">
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+<section class="gradient-bg1 text-center" id="clients">
+<div class="container">
+
+<div class="row">
+<div class="col-md-12">
+<div class="heading-area mx-570 mb-5">
+<h2 class="title text-white m-0">Some <span class="js-rotating morphext"><span class="animated flipInX">great</span></span> words from
+our clients</h2>
+</div>
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-12">
+<div class="owl-carousel wow zoomIn owl-loaded owl-drag" id="testimonial-slider">
+
+
+
+
+
+
+
+
+<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-7590px, 0px, 0px); transition: all 0.25s ease 0s; width: 11040px;"><div class="owl-item cloned" style="width: 690px;"><div class="item">
+<p class="para">The script works very well, I had no problems with it &amp; the autofarm excelled my expectations. </p>
+<h5 class="name gradient-text1">xomatic#7340</h5>
+<span class="designation">Child Slave #5</span>
+<ul class="ratings list-unstyled">
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+</ul>
+</div></div><div class="owl-item cloned" style="width: 690px;"><div class="item">
+<p class="para">The Script Is Great Its the best script I've seen worth the $7 from the features, to the support and the, implements off suggestions at such a fast speed, if there's a bug the creators devote their full time into fixing it and its been a pleasure to use. </p>
+<h5 class="name gradient-text1">NahSahh#0420</h5>
+<span class="designation">Child Slave #6</span>
+<ul class="ratings list-unstyled">
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+</ul>
+</div></div><div class="owl-item cloned" style="width: 690px;"><div class="item">
+<p class="para">the script is awesome. </p>
+<h5 class="name gradient-text1">Papa Proof ;)#7454</h5>
+<span class="designation">Child Slave #7</span>
+<ul class="ratings list-unstyled">
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+</ul>
+</div></div><div class="owl-item cloned" style="width: 690px;"><div class="item">
+<p class="para">yes. </p>
+<h5 class="name gradient-text1">sor#3243</h5>
+<span class="designation">Child Slave #8</span>
+<ul class="ratings list-unstyled">
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+</ul>
+</div></div><div class="owl-item" style="width: 690px;"><div class="item">
+<p class="para">the script makes me cum, its sooo good. </p>
+<h5 class="name gradient-text1">Worthi#2020</h5>
+<span class="designation">Child Slave #1</span>
+<ul class="ratings list-unstyled">
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+</ul>
+</div></div><div class="owl-item" style="width: 690px;"><div class="item">
+<p class="para">It's absolutely amazing I would buy instantly if you have bloxburg my family loves it too. </p>
+<h5 class="name gradient-text1">B^)#2165</h5>
+<span class="designation">Child Slave #2</span>
+<ul class="ratings list-unstyled">
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+</ul>
+</div></div><div class="owl-item" style="width: 690px;"><div class="item">
+<p class="para">good script buy now lots of cool features and cheap. </p>
+<h5 class="name gradient-text1">spelling corrector#4664</h5>
+<span class="designation">Child Slave #3</span>
+<ul class="ratings list-unstyled">
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+</ul>
+</div></div><div class="owl-item" style="width: 690px;"><div class="item">
+<p class="para">This is the best bloxburge script i ever used in my life the autofarm is great and the autobuild feature is sexy af, buy this if u can. </p>
+<h5 class="name gradient-text1">FunnyBloxYT#9400</h5>
+<span class="designation">Child Slave #4</span>
+<ul class="ratings list-unstyled">
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+</ul>
+</div></div><div class="owl-item" style="width: 690px;"><div class="item">
+<p class="para">The script works very well, I had no problems with it &amp; the autofarm excelled my expectations. </p>
+<h5 class="name gradient-text1">xomatic#7340</h5>
+<span class="designation">Child Slave #5</span>
+<ul class="ratings list-unstyled">
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+</ul>
+</div></div><div class="owl-item" style="width: 690px;"><div class="item">
+<p class="para">The Script Is Great Its the best script I've seen worth the $7 from the features, to the support and the, implements off suggestions at such a fast speed, if there's a bug the creators devote their full time into fixing it and its been a pleasure to use. </p>
+<h5 class="name gradient-text1">NahSahh#0420</h5>
+<span class="designation">Child Slave #6</span>
+<ul class="ratings list-unstyled">
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+</ul>
+</div></div><div class="owl-item" style="width: 690px;"><div class="item">
+<p class="para">the script is awesome. </p>
+<h5 class="name gradient-text1">Papa Proof ;)#7454</h5>
+<span class="designation">Child Slave #7</span>
+<ul class="ratings list-unstyled">
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+</ul>
+</div></div><div class="owl-item active" style="width: 690px;"><div class="item">
+<p class="para">yes. </p>
+<h5 class="name gradient-text1">sor#3243</h5>
+<span class="designation">Child Slave #8</span>
+<ul class="ratings list-unstyled">
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+</ul>
+</div></div><div class="owl-item cloned" style="width: 690px;"><div class="item">
+<p class="para">the script makes me cum, its sooo good. </p>
+<h5 class="name gradient-text1">Worthi#2020</h5>
+<span class="designation">Child Slave #1</span>
+<ul class="ratings list-unstyled">
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+</ul>
+</div></div><div class="owl-item cloned" style="width: 690px;"><div class="item">
+<p class="para">It's absolutely amazing I would buy instantly if you have bloxburg my family loves it too. </p>
+<h5 class="name gradient-text1">B^)#2165</h5>
+<span class="designation">Child Slave #2</span>
+<ul class="ratings list-unstyled">
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+</ul>
+</div></div><div class="owl-item cloned" style="width: 690px;"><div class="item">
+<p class="para">good script buy now lots of cool features and cheap. </p>
+<h5 class="name gradient-text1">spelling corrector#4664</h5>
+<span class="designation">Child Slave #3</span>
+<ul class="ratings list-unstyled">
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+</ul>
+</div></div><div class="owl-item cloned" style="width: 690px;"><div class="item">
+<p class="para">This is the best bloxburge script i ever used in my life the autofarm is great and the autobuild feature is sexy af, buy this if u can. </p>
+<h5 class="name gradient-text1">FunnyBloxYT#9400</h5>
+<span class="designation">Child Slave #4</span>
+<ul class="ratings list-unstyled">
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+<li><i aria-hidden="true" class="fas fa-star"></i></li>
+</ul>
+</div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div></div>
+</div>
+</div>
+
+<div class="owl-dots" id="testimonials-avatar">
+
+<button class="owl-dot" data-position="22%,auto,auto,5%" style="inset: 22% auto auto 5%;">
+<img alt="image" src="agency/img/avatar_1.png"></button>
+<button class="owl-dot" data-position="30%,auto,auto,16%" style="inset: 30% auto auto 16%;">
+<img alt="image" src="agency/img/avatar2.png"></button>
+<button class="owl-dot" data-position="auto,auto,38%,7%" style="inset: auto auto 38% 7%;">
+<img alt="image" src="agency/img/avatar3.png"></button>
+<button class="owl-dot" data-position="auto,auto,23%,18%" style="inset: auto auto 23% 18%;">
+<img alt="image" src="agency/img/avatar4.png"></button>
+
+<button class="owl-dot" data-position="20%,19%,auto,auto" style="inset: 20% 19% auto auto;">
+<img alt="image" src="agency/img/avatar5.png"></button>
+<button class="owl-dot" data-position="28%,6%,auto,auto" style="inset: 28% 6% auto auto;">
+<img alt="image" src="agency/img/avatar6.png"></button>
+<button class="owl-dot" data-position="40%,15%,auto,auto" style="inset: 40% 15% auto auto;">
+<img alt="image" src="agency/img/avatar7.png"></button>
+<button class="owl-dot active" data-position="auto,21%,22%,auto" style="inset: auto 21% 22% auto;">
+<img alt="image" src="agency/img/avatar8.png"></button>
+</div>
+</div>
+</section>
+
+
+<div id="aimated-cursor">
+<div id="cursor">
+<div id="cursor-loader"></div>
+</div>
+</div>
+
+
+<span class="scroll-top-arrow" style="display: inline;"><i class="fas fa-angle-up"></i></span>
+
+
+<script src="vendor/js/bundle.min.js"></script>
+
+<script src="vendor/js/jquery.appear.js"></script>
+<script src="vendor/js/jquery.fancybox.min.js"></script>
+<script src="vendor/js/owl.carousel.min.js"></script>
+<script src="vendor/js/swiper.min.js"></script>
+<script src="vendor/js/morphext.min.js"></script>
+<script src="vendor/js/TweenMax.min.js"></script>
+<script src="vendor/js/wow.min.js"></script>
+<script src="vendor/js/jquery.cubeportfolio.min.js"></script>
+
+<script src="vendor/js/jquery.themepunch.tools.min.js"></script>
+<script src="vendor/js/jquery.themepunch.revolution.min.js"></script>
+
+<script src="vendor/js/extensions/revolution.extension.actions.min.js"></script>
+<script src="vendor/js/extensions/revolution.extension.carousel.min.js"></script>
+<script src="vendor/js/extensions/revolution.extension.kenburn.min.js"></script>
+<script src="vendor/js/extensions/revolution.extension.layeranimation.min.js"></script>
+<script src="vendor/js/extensions/revolution.extension.migration.min.js"></script>
+<script src="vendor/js/extensions/revolution.extension.navigation.min.js"></script>
+<script src="vendor/js/extensions/revolution.extension.parallax.min.js"></script>
+<script src="vendor/js/extensions/revolution.extension.slideanims.min.js"></script>
+<script src="vendor/js/extensions/revolution.extension.video.min.js"></script>
+
+<script src="vendor/js/contact_us.js"></script>
+<script src="agency/js/script.js"></script>
+
+<div id="sellix-container"></div></body></html>
